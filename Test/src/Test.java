@@ -11,6 +11,7 @@ public class Test implements C {
 	public static void main(String[] args) {
 	}
 
+	// overriding is always outside the main maethod
 	@Override
 	public void m3() {
 		// TODO Auto-generated method stub
